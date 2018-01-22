@@ -1,0 +1,1 @@
+Returns the <code>id</code> of the build, which consists of the job name, build number and an optional <code>prefix</code>
